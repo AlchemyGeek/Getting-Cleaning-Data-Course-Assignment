@@ -39,7 +39,7 @@ The following information provides the high level description of the source data
 
 * Subject: Integer 1:30 - Subject unique id number
 * Activity: One of the following activities `WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING`, `LAYING`
-* 66 collumns, each with the average value of the mean or standard deviation of the feature variables from the original set.
+* 66 numeric feature variables [-1.0,+1.0] , each with the average value of the mean or standard deviation of the feature variables from the original set.
 
 Specifically:
 
